@@ -1,0 +1,8 @@
+{
+  "name": "g2-port-operations-dashboard",
+  "version": "3.13.1",
+  "private": true,
+  "scripts": {
+    "build": "node build.cjs"
+  }
+}
